@@ -12,8 +12,7 @@ JavaScript
 Para obter esse projeto, siga os passos:
 1. Clone esse repositório utilizando <code>git clone</code>.
 2. Rode o comando <code> yarn </code> na raíz da pasta do projeto clonado para baixar as dependências.
-3. Rode <code> yarn dev:server </code> na raíz da pasta do projeto para inicializar.
-4. Aplicação back-end pronta para receber dados e listar dados.
+3. Rode <code> yarn start </code> na raíz da pasta do projeto para inicializar.
 
 # Como Contribuir?
 **Faça um fork deste repositório**
